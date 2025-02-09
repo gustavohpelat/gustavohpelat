@@ -1,6 +1,6 @@
 # 👨‍💻 Meu Repositório do GitHub
 
-Seja bem-vindo ao meu repositório! Aqui você pode encontrar alguns projetos, estudos e tudo o que estou aprendendo no momento.
+Olá! Aqui você pode encontrar alguns projetos e algumas coisas que estou aprendendo no momento.
 
 ---
 
