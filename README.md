@@ -25,7 +25,7 @@ Aqui estão as tecnologias e ferramentas com as quais estou trabalhando:
 
 Atualmente, estou trabalhando como:
 
-- **Analista de Suporte** Para a empresa **JA REZENDE**, cajudando os usuários a resolverem seus problemas diários.
+- **Analista de Suporte** Para a empresa **JA REZENDE**, ajudando os usuários a resolverem seus problemas diários.
 - **Testes de Penetração (Pentest)** Simulação de ataques e **Vulnerability scanning:**
 
 ---
